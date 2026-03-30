@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Pinkie! 👋
 
-<!--
-**pinkie18/Pinkie18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🌱 I’m currently learning **Programming** and **Version Control**.
+- 💻 Passionate about building cool projects and open-source.
+- 🎯 My goal is to become a professional developer.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack (正在学习的工具)
+- **Languages:** Python / HTML / CSS / JavaScript
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Pinkie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pinkie18&show_icons=true&theme=radical)
+
+---
+"Stay hungry, stay foolish."
