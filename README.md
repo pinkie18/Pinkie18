@@ -5,7 +5,7 @@
 - 💻 Passionate about building cool projects and open-source.
 - 🎯 My goal is to become a professional developer.
 
-### 🛠 Tech Stack (正在学习的工具)
+### 🛠 Tech Stack 
 - **Languages:** Python / HTML / CSS / JavaScript
 - **Tools:** Git, GitHub, VS Code
 
